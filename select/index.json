@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Home",
+  "base_artist": "小田桐仁義",
+  "createdAt": "2025-12-03T21:42:30.413629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Home Sweet",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/01_Home_Sweet_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Home Sweet",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/02_Home_Sweet_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Home Sweet (feat. Lady A)",
+      "artist": "Russell Dickerson feat. Lady A",
+      "has_synced": true,
+      "path": "select/03_Home_Sweet_(feat._Lady_A)_Russell_Dickerson_feat._Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Home Sweet (feat. Lady A)",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/04_Home_Sweet_(feat._Lady_A)_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When She Comes Home Tonight",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/05_When_She_Comes_Home_Tonight_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "down home",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/06_down_home_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "down home",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/07_down_home_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "God Is Calling Me Back Home",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/08_God_Is_Calling_Me_Back_Home_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "God Is Calling Me Back Home",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/09_God_Is_Calling_Me_Back_Home_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "500 Miles Away from Home",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/10_500_Miles_Away_from_Home_Bobby_Bare.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Almost Home",
+      "artist": "Craig Morgan",
+      "has_synced": true,
+      "path": "select/11_Almost_Home_Craig_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Almost Home (2020 - Remaster)",
+      "artist": "Craig Morgan",
+      "has_synced": false,
+      "path": "select/12_Almost_Home_(2020_-_Remaster)_Craig_Morgan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back Home Again",
+      "artist": "John Denver",
+      "has_synced": false,
+      "path": "select/13_Back_Home_Again_John_Denver.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Boogie Till the Cows Come Home",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/14_Boogie_Till_the_Cows_Come_Home_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Boogie Till the Cows Come Home (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/15_Boogie_Till_the_Cows_Come_Home_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Boys Back Home",
+      "artist": "Hailey Whitters",
+      "has_synced": true,
+      "path": "select/16_Boys_Back_Home_Hailey_Whitters.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bring It On Home to Me",
+      "artist": "Mickey Gilley",
+      "has_synced": true,
+      "path": "select/17_Bring_It_On_Home_to_Me_Mickey_Gilley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Home",
+      "artist": "小田桐仁義",
+      "has_synced": false,
+      "path": "select/pl_01_Home_小田桐仁義.txt"
+    }
+  ]
+}
